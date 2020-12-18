@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleWebAppArJAzureProject", "SampleWebAppArJAzureProject\SampleWebAppArJAzureProject.csproj", "{96949379-03A2-4BFB-A26B-6F444FCBFAB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96949379-03A2-4BFB-A26B-6F444FCBFAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96949379-03A2-4BFB-A26B-6F444FCBFAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96949379-03A2-4BFB-A26B-6F444FCBFAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96949379-03A2-4BFB-A26B-6F444FCBFAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {952F3F4A-16A5-4D7B-A0F4-7701EB271CC2}
+	EndGlobalSection
+EndGlobal
