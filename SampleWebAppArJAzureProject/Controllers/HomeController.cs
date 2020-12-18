@@ -15,7 +15,7 @@ namespace SampleWebAppArJAzureProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Adityaraj's Page";
+            ViewBag.Message = "Adityaraj's Page Updated(v2)";
 
             return View();
         }
